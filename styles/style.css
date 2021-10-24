@@ -1,4 +1,7 @@
 @media (max-width:640px){
+  canvas{
+  width:640px;
+  }
   .top{
     position: sticky;
     position: -webkit-sticky;
